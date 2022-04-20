@@ -1,1 +1,2 @@
-[Project Proposal.pdf](https://github.com/HansikaGupta29/WOC-ML/files/8522967/Project.Proposal.pdf)
+My name is Hansika Gupta.
+This is the ML Bootcamp for WOC 4.0.
